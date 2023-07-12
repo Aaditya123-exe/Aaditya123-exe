@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/miaadityapatil" target="blank"><img src="https://img.shields.io/twitter/follow/miaadityapatil?logo=twitter&style=for-the-badge" alt="miaadityapatil" /></a> </p>
 
+- 💬 Ask me about **DSA,CP**
+
 - 🌱 I’m currently learning **DSA,CP and exploring CSS Frameworks**
 
-- 💬 Ask me about **DSA,CP**
 
 - 👨‍💻 All of my projects are available at: [https://aadis.netlify.app/](https://aadis.netlify.app/)
 
