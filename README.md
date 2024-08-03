@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **DSA,CP and exploring CSS Frameworks**
 
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Aaditya123-exe/Aaditya123-exe](https://github.com/Aaditya123-exe/Aaditya123-exe)
+- 👨‍💻 All of my projects are available at: [https://github.com/Aaditya123-exe/](https://github.com/Aaditya123-exe/Aaditya123-exe)
 
 - 📫 How to reach me: **patilaaditya2019@gmail.com**
 
